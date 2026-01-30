@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Archiaziz Cadawas | General Virtual Assistant</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      margin: 0;
+      background: #f5f7fa;
+      color: #333;
+      line-height: 1.6;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+      padding: 40px 20px;
+    }
+    header {
+      background: #1f2937;
+      color: #fff;
+      padding: 60px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin-bottom: 10px;
+      font-size: 36px;
+    }
+    header p {
+      font-size: 18px;
+      opacity: 0.9;
+    }
+    section {
+      background: #fff;
+      margin-top: 30px;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    }
+    h2 {
+      margin-bottom: 15px;
+      color: #111827;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .skills-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 15px;
+    }
+    .skill-box {
+      background: #f1f5f9;
+      padding: 15px;
+      border-radius: 6px;
+    }
+    .experience {
+      margin-bottom: 20px;
+    }
+    .experience h3 {
+      margin-bottom: 5px;
+    }
+    footer {
+      text-align: center;
+      margin-top: 40px;
+      padding: 20px;
+      font-size: 14px;
+      color: #555;
+    }
+    .cta {
+      background: #2563eb;
+      color: #fff;
+      padding: 15px 25px;
+      border-radius: 6px;
+      display: inline-block;
+      margin-top: 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Archiaziz Anwar F. Cadawas</h1>
+  <p>General Virtual Assistant | Customer Support | CRM & Automation</p>
+  <p>📧 archiaziz.cadawas@gmail.com | 📞 +63 938 084 2578</p>
+</header>
+
+<div class="container">
+
+  <section>
+    <h2>About Me</h2>
+    <p>
+      I am a reliable and results-driven General Virtual Assistant with over 10 years of remote experience supporting global clients in gaming, e-commerce, travel, healthcare, and IT. I help business owners stay organized, respond faster to customers, and streamline daily operations.
+    </p>
+  </section>
+
+  <section>
+    <h2>General VA Services</h2>
+    <div class="skills-grid">
+      <div class="skill-box">Email & Inbox Management</div>
+      <div class="skill-box">Calendar & Appointment Scheduling</div>
+      <div class="skill-box">Customer Support (Chat & Email)</div>
+      <div class="skill-box">CRM Management (Salesforce, Helpshift)</div>
+      <div class="skill-box">Data Entry & Reports</div>
+      <div class="skill-box">Automation & Chatbots (ManyChat)</div>
+      <div class="skill-box">Inbound & Outbound Sales Support</div>
+      <div class="skill-box">VIP & Escalation Handling</div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Professional Experience</h2>
+
+    <div class="experience">
+      <h3>VIP Account Manager – Century Games (Remote)</h3>
+      <p><em>Nov 2021 – Dec 2025</em></p>
+      <ul>
+        <li>Managed high-value VIP client accounts</li>
+        <li>Built multilingual chat automation using ManyChat</li>
+        <li>Improved response times and customer satisfaction</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>Sales & Customer Support – Avast Flowers</h3>
+      <ul>
+        <li>Handled sales inquiries and order processing</li>
+        <li>Upsold products while maintaining high CSAT</li>
+      </ul>
+    </div>
+
+    <div class="experience">
+      <h3>Flight Reservations & Support – Stellar Inc.</h3>
+      <ul>
+        <li>Managed AU flight and hotel bookings</li>
+        <li>Handled calls, chat, and email support</li>
+        <li>Upsold ticket upgrades and rebookings</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>Why Hire Me?</h2>
+    <ul>
+      <li>10+ years of proven remote experience</li>
+      <li>Excellent English communication skills</li>
+      <li>Tech-savvy with CRM and automation tools</li>
+      <li>Reliable, proactive, and detail-oriented</li>
+    </ul>
+
+    <a class="cta" href="mailto:archiaziz.cadawas@gmail.com">Hire Me</a>
+  </section>
+
+</div>
+
+<footer>
+  © 2026 Archiaziz Cadawas | General Virtual Assistant Portfolio
+</footer>
+
+</body>
+</html>
